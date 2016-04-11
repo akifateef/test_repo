@@ -1,5 +1,5 @@
 Car
 Cycle
-Van
+Truck
 Bus
 
